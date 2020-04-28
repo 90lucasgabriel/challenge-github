@@ -100,7 +100,6 @@ export const Issues = styled.div`
       margin-top: 10px;
     }
 
-
     div {
       margin: 0 16px;
       flex: 1;
